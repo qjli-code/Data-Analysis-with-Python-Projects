@@ -1,11 +1,24 @@
 # FreeCodeCamp Data Analysis with Python Projects
 
-* A
 
-* B
+* Mean Variance Standard Deviation Calculator. 
 
-* C
+Project description and the boilerplat code can be found at [FreeCodeCamp](https://github.com/freeCodeCamp/boilerplate-mean-variance-standard-deviation-calculator).
 
-* D
+* Demographic Data Analyzer.
 
-* E
+Project description and the boilerplat code can be found at [FreeCodeCamp](https://github.com/freeCodeCamp/boilerplate-demographic-data-analyzer).
+
+* Medical Data Visualizer. 
+
+Project description and the boilerplat code can be found at [FreeCodeCamp](https://github.com/freeCodeCamp/boilerplate-medical-data-visualizer).
+
+
+* Page View Time Series Visualizer.
+
+Project description and the boilerplat code can be found at [FreeCodeCamp](https://github.com/freeCodeCamp/boilerplate-page-view-time-series-visualizer).
+
+* Sea Level Predictor.
+
+Project description and the boilerplat code can be found at [FreeCodeCamp](https://github.com/freeCodeCamp/boilerplate-sea-level-predictor).
+
