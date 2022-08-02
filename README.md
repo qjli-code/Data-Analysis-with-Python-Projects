@@ -1,24 +1,24 @@
 # FreeCodeCamp Data Analysis with Python Projects
 
 
-* Mean Variance Standard Deviation Calculator. 
+## Mean Variance Standard Deviation Calculator. 
 
-Project description and the boilerplat code can be found at [FreeCodeCamp](https://github.com/freeCodeCamp/boilerplate-mean-variance-standard-deviation-calculator).
+  Project description and the boilerplat code can be found at [FreeCodeCamp](https://github.com/freeCodeCamp/boilerplate-mean-variance-standard-deviation-calculator).
 
-* Demographic Data Analyzer.
+## Demographic Data Analyzer.
 
-Project description and the boilerplat code can be found at [FreeCodeCamp](https://github.com/freeCodeCamp/boilerplate-demographic-data-analyzer).
+  Project description and the boilerplat code can be found at [FreeCodeCamp](https://github.com/freeCodeCamp/boilerplate-demographic-data-analyzer).
 
-* Medical Data Visualizer. 
+## Medical Data Visualizer. 
 
-Project description and the boilerplat code can be found at [FreeCodeCamp](https://github.com/freeCodeCamp/boilerplate-medical-data-visualizer).
+  Project description and the boilerplat code can be found at [FreeCodeCamp](https://github.com/freeCodeCamp/boilerplate-medical-data-visualizer).
 
 
-* Page View Time Series Visualizer.
+## Page View Time Series Visualizer.
 
-Project description and the boilerplat code can be found at [FreeCodeCamp](https://github.com/freeCodeCamp/boilerplate-page-view-time-series-visualizer).
+  Project description and the boilerplat code can be found at [FreeCodeCamp](https://github.com/freeCodeCamp/boilerplate-page-view-time-series-visualizer).
 
-* Sea Level Predictor.
+## Sea Level Predictor.
 
-Project description and the boilerplat code can be found at [FreeCodeCamp](https://github.com/freeCodeCamp/boilerplate-sea-level-predictor).
+  Project description and the boilerplat code can be found at [FreeCodeCamp](https://github.com/freeCodeCamp/boilerplate-sea-level-predictor).
 

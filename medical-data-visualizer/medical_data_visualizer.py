@@ -14,10 +14,12 @@ df['overweight'] = df['overweight'].apply(lambda x: 1 if x > 25 else 0)
 df['cholesterol'] = df['cholesterol'].apply(lambda x: 0 if x == 1 else 1)
 df['gluc'] = df['gluc'].apply(lambda x: 0 if x == 1 else 1)
 
+
 # Draw Categorical Plot
 def draw_cat_plot():
     # Create DataFrame for cat plot using `pd.melt` using just the values from 'cholesterol', 'gluc', 'smoke', 'alco', 'active', and 'overweight'.
-    df_cat = pd.melt(df, id_vars='cardio', value_vars=['cholesterol', 'gluc', 'smoke', 'alco', 'active', 'overweight'])
+    df_cat = pd.melt(df, id_vars='cardio', value_vars=[
+                     'cholesterol', 'gluc', 'smoke', 'alco', 'active', 'overweight'])
 
     # Group and reformat the data to split it by 'cardio'. Show the counts of each feature. You will have to rename one of the columns for the catplot to work correctly.
     df_cat = df_cat.value_counts().reset_index()
